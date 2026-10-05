@@ -1,5 +1,5 @@
 # Gregory-Romo-IT-Data-Portfolio
-### Bio: MIS Graduate with hands-on experience in IT Support, system administration, and data analytics (Power BI, SQL, SAP S/4HANA). Passionate about bridging technical infrastructure with data-driven decision-making
+### Bio: MIS Graduate with experience in data analytics, business intelligence, reporting, and business systems. Experienced with Power BI, Excel, SQL, Tableau, and SAP S/4HANA, with a focus on turning data into actionable business insights.
 
 ### Contact Links:
 * **Email:** romogregory3@gmail.com
@@ -14,7 +14,6 @@
 * 🔗 [View Full Project Repository](https://github.com/romogregory3/movie-genre-analysis)
 
 ### ✈️ 5.8M Flight Data Pipeline & Analytics Architecture
-* **Tech Stack:** Python, Apache Airflow, Docker, PostgreSQL, Tableau Desktop
 * **Executive Summary:** Designed and built an automated data pipeline that processes national flight data from the U.S. Department of Transportation using a 3-tier Medallion Architecture (Bronze $\rightarrow$ Silver $\rightarrow$ Gold). Standardized raw datasets into a star-schema Microsoft SQL Server data warehouse to power interactive executive dashboards in Tableau.
 * **Key Findings:** Primary Delay Driver: Identified that Late Aircraft and National Air System (NAS) issues accounted for the highest average delay minutes across peak travel months.
 * 🔗[View Full Project Repository](https://github.com/romogregory3/flight-data-warehouse-pipeline/tree/main)
